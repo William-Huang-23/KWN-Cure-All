@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 95f2f677813bed043a69efffeaeb5fe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5162615035644686624
+    second: Bullet-Sheet_0
+  - first:
+      213: 4501954018552059696
+    second: Bullet-Sheet_1
+  - first:
+      213: -4641442739024422770
+    second: Bullet-Sheet_2
+  - first:
+      213: -7777069101584222323
+    second: Bullet-Sheet_3
+  - first:
+      213: -6373060307954684883
+    second: Bullet-Sheet_4
+  - first:
+      213: -4973035485871416625
+    second: Bullet-Sheet_5
+  - first:
+      213: -1103491393457339882
+    second: Bullet-Sheet_6
+  - first:
+      213: 191708105211547020
+    second: Bullet-Sheet_7
+  - first:
+      213: 2072725274016624951
+    second: Bullet-Sheet_8
+  - first:
+      213: 4744602144131101466
+    second: Bullet-Sheet_9
+  - first:
+      213: -1580860861641854481
+    second: Bullet-Sheet_10
+  - first:
+      213: -1890984966936182669
+    second: Bullet-Sheet_11
+  - first:
+      213: 3119855331577701645
+    second: Bullet-Sheet_12
+  - first:
+      213: 5239508309820437551
+    second: Bullet-Sheet_13
+  - first:
+      213: 3440495077052755523
+    second: Bullet-Sheet_14
+  - first:
+      213: -4217615898053313512
+    second: Bullet-Sheet_15
+  - first:
+      213: -7001109485447094815
+    second: Bullet-Sheet_16
+  - first:
+      213: -7455999657132891527
+    second: Bullet-Sheet_17
+  - first:
+      213: -4196691873503818935
+    second: Bullet-Sheet_18
+  - first:
+      213: 3275787197348617467
+    second: Bullet-Sheet_19
+  - first:
+      213: 4071450214571648546
+    second: Bullet-Sheet_20
+  - first:
+      213: 7960683742050569950
+    second: Bullet-Sheet_21
+  - first:
+      213: -1544692076070445728
+    second: Bullet-Sheet_22
+  - first:
+      213: 1864625166333928838
+    second: Bullet-Sheet_23
+  - first:
+      213: -1886504743999805548
+    second: Bullet-Sheet_24
+  - first:
+      213: -9208516215088001771
+    second: Bullet-Sheet_25
+  - first:
+      213: 1518564503707204687
+    second: Bullet-Sheet_26
+  - first:
+      213: 6239175087391084223
+    second: Bullet-Sheet_27
+  - first:
+      213: 8399037110893779760
+    second: Bullet-Sheet_28
+  - first:
+      213: 5919868942486172849
+    second: Bullet-Sheet_29
+  - first:
+      213: 7571744535675242427
+    second: Bullet-Sheet_30
+  - first:
+      213: -5383744531671028690
+    second: Bullet-Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eece405af4ba58b0800000000000000
+      internalID: -5162615035644686624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03710f6d3572a7e30800000000000000
+      internalID: 4501954018552059696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8812279b68469fb0800000000000000
+      internalID: -4641442739024422770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f7665bdc421490800000000000000
+      internalID: -7777069101584222323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c28347a675e87a0800000000000000
+      internalID: -6373060307954684883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad839e29a3cfab0800000000000000
+      internalID: -4973035485871416625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

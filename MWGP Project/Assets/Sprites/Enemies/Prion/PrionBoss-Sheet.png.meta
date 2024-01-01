@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 8f0c270b6349f054891f347b2b9306ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5389874465412479737
+    second: PrionBoss-Sheet_0
+  - first:
+      213: 7370270355857953887
+    second: PrionBoss-Sheet_1
+  - first:
+      213: -3727602429920187536
+    second: PrionBoss-Sheet_2
+  - first:
+      213: -1276281332942808846
+    second: PrionBoss-Sheet_3
+  - first:
+      213: -4037571622111968447
+    second: PrionBoss-Sheet_4
+  - first:
+      213: 3570891145560647826
+    second: PrionBoss-Sheet_5
+  - first:
+      213: -2779513148257416038
+    second: PrionBoss-Sheet_6
+  - first:
+      213: -6517706908757463721
+    second: PrionBoss-Sheet_7
+  - first:
+      213: -3030839258375140315
+    second: PrionBoss-Sheet_8
+  - first:
+      213: 7373707550659282903
+    second: PrionBoss-Sheet_9
+  - first:
+      213: -8788587169456202642
+    second: PrionBoss-Sheet_10
+  - first:
+      213: -1275441362424989151
+    second: PrionBoss-Sheet_11
+  - first:
+      213: 3612980901808414056
+    second: PrionBoss-Sheet_12
+  - first:
+      213: -447704537985678749
+    second: PrionBoss-Sheet_13
+  - first:
+      213: -2044403020362804869
+    second: PrionBoss-Sheet_14
+  - first:
+      213: -113471427987941418
+    second: PrionBoss-Sheet_15
+  - first:
+      213: 4671024029950560396
+    second: PrionBoss-Sheet_16
+  - first:
+      213: -3152281458413225928
+    second: PrionBoss-Sheet_17
+  - first:
+      213: -2764462171183081906
+    second: PrionBoss-Sheet_18
+  - first:
+      213: 5752542708165133060
+    second: PrionBoss-Sheet_19
+  - first:
+      213: -5898252427535652054
+    second: PrionBoss-Sheet_20
+  - first:
+      213: 2661125180496838006
+    second: PrionBoss-Sheet_21
+  - first:
+      213: -7935400778892026758
+    second: PrionBoss-Sheet_0
+  - first:
+      213: 3471972387240358129
+    second: PrionBoss-Sheet_1
+  - first:
+      213: 7940909757677349081
+    second: PrionBoss-Sheet_2
+  - first:
+      213: -6074267785433232805
+    second: PrionBoss-Sheet_3
+  - first:
+      213: -4573669033657012345
+    second: PrionBoss-Sheet_4
+  - first:
+      213: 6793736109392831714
+    second: PrionBoss-Sheet_5
+  - first:
+      213: -2964692971377779966
+    second: PrionBoss-Sheet_6
+  - first:
+      213: -2552362391849039149
+    second: PrionBoss-Sheet_7
+  - first:
+      213: 689461632136961252
+    second: PrionBoss-Sheet_8
+  - first:
+      213: 6027411541285914538
+    second: PrionBoss-Sheet_9
+  - first:
+      213: -4986205863122931459
+    second: PrionBoss-Sheet_10
+  - first:
+      213: -7506769145367355105
+    second: PrionBoss-Sheet_11
+  - first:
+      213: -726068958323911985
+    second: PrionBoss-Sheet_12
+  - first:
+      213: 1554300364286828299
+    second: PrionBoss-Sheet_13
+  - first:
+      213: -5352421405682389798
+    second: PrionBoss-Sheet_14
+  - first:
+      213: 1021212465122046095
+    second: PrionBoss-Sheet_15
+  - first:
+      213: -2889063978497176017
+    second: PrionBoss-Sheet_16
+  - first:
+      213: -5477025549304869050
+    second: PrionBoss-Sheet_17
+  - first:
+      213: -3138647335447230918
+    second: PrionBoss-Sheet_18
+  - first:
+      213: -2480599465742243604
+    second: PrionBoss-Sheet_19
+  - first:
+      213: -1803962342883991170
+    second: PrionBoss-Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c58cff80bcfd190800000000000000
+      internalID: -7935400778892026758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03d6bad7cee2030800000000000000
+      internalID: 3471972387240358129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8aac31a57c33e60800000000000000
+      internalID: 7940909757677349081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a47aac1add3bba0800000000000000
+      internalID: -6074267785433232805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6ba80f301780c0800000000000000
+      internalID: -4573669033657012345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4aa1a2ff2384e50800000000000000
+      internalID: 6793736109392831714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1eec337b4bd6d0800000000000000
+      internalID: -2964692971377779966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da85c77def249cd0800000000000000
+      internalID: -2552362391849039149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd8c593b5719900800000000000000
+      internalID: 689461632136961252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7cf69bcdaa5a350800000000000000
+      internalID: 6027411541285914538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0769f7f207dcab0800000000000000
+      internalID: -4986205863122931459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11248f1c3992d790800000000000000
+      internalID: -7506769145367355105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25aa8112c7ce5f0800000000000000
+      internalID: -726068958323911985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f939f32fbf19510800000000000000
+      internalID: 1554300364286828299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcaa12071168b5b0800000000000000
+      internalID: -5352421405682389798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80fccf83531c2e00800000000000000
+      internalID: 1021212465122046095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8c445e9bf7e7d0800000000000000
+      internalID: -2889063978497176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrionBoss-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10200
+        y: 0
+        width: 600
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc1fb0842bdf3b0800000000000000
+      internalID: -5477025549304869050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 240b48267bf535849a084d2a50f9407c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1245175626688763198
+    second: Big-Sheet_0
+  - first:
+      213: 2977749679110280227
+    second: Big-Sheet_1
+  - first:
+      213: -3906022840071987975
+    second: Big-Sheet_2
+  - first:
+      213: -7454515024573388705
+    second: Big-Sheet_3
+  - first:
+      213: 6291023040823902725
+    second: Big-Sheet_4
+  - first:
+      213: 7338296790159217745
+    second: Big-Sheet_5
+  - first:
+      213: 1426593752552860894
+    second: Big-Sheet_6
+  - first:
+      213: -6904722556729704827
+    second: Big-Sheet_0
+  - first:
+      213: -1708282813978218046
+    second: Big-Sheet_1
+  - first:
+      213: 3747117243312273628
+    second: Big-Sheet_2
+  - first:
+      213: 2781357394400333236
+    second: Big-Sheet_3
+  - first:
+      213: 2700504510565316559
+    second: Big-Sheet_4
+  - first:
+      213: -2711439360092186444
+    second: Big-Sheet_5
+  - first:
+      213: -8353284877037878783
+    second: Big-Sheet_6
+  - first:
+      213: -2762342283960396880
+    second: Big-Sheet_7
+  - first:
+      213: -2058000182477759761
+    second: Big-Sheet_8
+  - first:
+      213: 3229621277270347067
+    second: Big-Sheet_9
+  - first:
+      213: -8274443735638943416
+    second: Big-Sheet_10
+  - first:
+      213: 7209836222537555505
+    second: Big-Sheet_11
+  - first:
+      213: -4071325868230884395
+    second: Big-Sheet_12
+  - first:
+      213: -3333678875184600145
+    second: Big-Sheet_13
+  - first:
+      213: 5121601002245767356
+    second: Big-Sheet_14
+  - first:
+      213: 93464982716750750
+    second: Big-Sheet_15
+  - first:
+      213: 3577054034345348358
+    second: Big-Sheet_16
+  - first:
+      213: 4340057181316635616
+    second: Big-Sheet_17
+  - first:
+      213: -7365056067058306930
+    second: Big-Sheet_18
+  - first:
+      213: 1532531762541894246
+    second: Big-Sheet_19
+  - first:
+      213: -318848871918385202
+    second: Big-Sheet_20
+  - first:
+      213: -3487029625978937391
+    second: Big-Sheet_21
+  - first:
+      213: -2882013460862451429
+    second: Big-Sheet_22
+  - first:
+      213: 6972844158113133443
+    second: Big-Sheet_23
+  - first:
+      213: 3671418791534168302
+    second: Big-Sheet_24
+  - first:
+      213: 600743163577102828
+    second: Big-Sheet_25
+  - first:
+      213: 9191456809888320628
+    second: Big-Sheet_26
+  - first:
+      213: 3947324890836715603
+    second: Big-Sheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebf7dda6f7d20a0800000000000000
+      internalID: -6904722556729704827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17ce0e4d5fa48e0800000000000000
+      internalID: -1708282813978218046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87e5b974f600430800000000000000
+      internalID: 3747117243312273628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd43ae50dd599620800000000000000
+      internalID: 2781357394400333236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f5926b8e1a7520800000000000000
+      internalID: 2700504510565316559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b851bf84480f5ad0800000000000000
+      internalID: -2711439360092186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c38479ab231c80800000000000000
+      internalID: -8353284877037878783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

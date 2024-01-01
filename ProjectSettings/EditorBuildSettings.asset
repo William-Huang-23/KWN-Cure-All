@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2c48a5631758065419398b14db02613d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 939534310139cdd42b9c6cd763f84ad6
+  - enabled: 1
+    path: Assets/Scenes/Enemy.unity
+    guid: 390388f4849c58447be6aa6e4f14b004
+  - enabled: 1
+    path: Assets/Scenes/High Score.unity
+    guid: c3f2b41b359be854abd5a2a11aaf1dc0
+  - enabled: 1
+    path: Assets/Scenes/How To Play.unity
+    guid: acaa9a82617e92b479f1806beaead1e0
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 2333394ef2653a54cb8ead40c568a7e9
+  - enabled: 1
+    path: Assets/Scenes/Power Up.unity
+    guid: 0bf6a4b775ba3be47849c90fcf4caf7c
+  - enabled: 1
+    path: Assets/Scenes/Stage Select.unity
+    guid: e41bafa668f6a8848bba577971950e87
+  - enabled: 1
+    path: Assets/Scenes/Test Scene Bacteria.unity
+    guid: 99e35f18f962a354a81a4fc10a91ac57
+  - enabled: 1
+    path: Assets/Scenes/Test Scene Parasite.unity
+    guid: 7e347b7f38b0f4348942e50e2993bdfa
+  - enabled: 1
+    path: Assets/Scenes/Test Scene Prion.unity
+    guid: 74d2368ec58d5e44ca21ddda77d02115
+  - enabled: 1
+    path: Assets/Scenes/Test Scene Spore.unity
+    guid: be449496b036f284e9b1fe11cae1acd8
+  - enabled: 1
+    path: Assets/Scenes/Test Scene Virus.unity
+    guid: 7b9689839774a654c93f3d6e01ac86b8
+  m_configObjects: {}

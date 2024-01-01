@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 715757839b8076a4496144276b7eb32e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7661649143681559261
+    second: VirusBossDanger-Sheet_0
+  - first:
+      213: 3093841410341261448
+    second: VirusBossDanger-Sheet_1
+  - first:
+      213: 5509025432265856618
+    second: VirusBossDanger-Sheet_2
+  - first:
+      213: -5101889059681288317
+    second: VirusBossDanger-Sheet_3
+  - first:
+      213: 5957036268366811364
+    second: VirusBossDanger-Sheet_4
+  - first:
+      213: -3327972235795875205
+    second: VirusBossDanger-Sheet_5
+  - first:
+      213: -6805414317244151118
+    second: VirusBossDanger-Sheet_6
+  - first:
+      213: 8673987166354826803
+    second: VirusBossDanger-Sheet_7
+  - first:
+      213: -8370270152793121823
+    second: VirusBossDanger-Sheet_8
+  - first:
+      213: 1961547456040593123
+    second: VirusBossDanger-Sheet_9
+  - first:
+      213: -7822222446938852747
+    second: VirusBossDanger-Sheet_10
+  - first:
+      213: -2060609223932350125
+    second: VirusBossDanger-Sheet_11
+  - first:
+      213: -4477302395292396650
+    second: VirusBossDanger-Sheet_12
+  - first:
+      213: -4181069259013206621
+    second: VirusBossDanger-Sheet_13
+  - first:
+      213: 5504822344161899201
+    second: VirusBossDanger-Sheet_14
+  - first:
+      213: 2759588411872549545
+    second: VirusBossDanger-Sheet_15
+  - first:
+      213: -5283013164883825471
+    second: VirusBossDanger-Sheet_16
+  - first:
+      213: -4838099178084575361
+    second: VirusBossDanger-Sheet_17
+  - first:
+      213: 420543519943904841
+    second: VirusBossDanger-Sheet_18
+  - first:
+      213: -5794506617342195980
+    second: VirusBossDanger-Sheet_19
+  - first:
+      213: -3924564720656353492
+    second: VirusBossDanger-Sheet_20
+  - first:
+      213: 4729744547131355175
+    second: VirusBossDanger-Sheet_21
+  - first:
+      213: -3673265672601532929
+    second: VirusBossDanger-Sheet_22
+  - first:
+      213: -7723248880566171580
+    second: VirusBossDanger-Sheet_23
+  - first:
+      213: -8987485136396206756
+    second: VirusBossDanger-Sheet_24
+  - first:
+      213: -7208875625571663480
+    second: VirusBossDanger-Sheet_25
+  - first:
+      213: -9175482462440137794
+    second: VirusBossDanger-Sheet_26
+  - first:
+      213: 268717947395713060
+    second: VirusBossDanger-Sheet_27
+  - first:
+      213: -8956197740448783534
+    second: VirusBossDanger-Sheet_28
+  - first:
+      213: 3085283466767275277
+    second: VirusBossDanger-Sheet_29
+  - first:
+      213: -8051386573225652662
+    second: VirusBossDanger-Sheet_30
+  - first:
+      213: 1599931903901218658
+    second: VirusBossDanger-Sheet_31
+  - first:
+      213: 3381080536071833780
+    second: VirusBossDanger-Sheet_32
+  - first:
+      213: 313702204636739164
+    second: VirusBossDanger-Sheet_33
+  - first:
+      213: -7713581344940791488
+    second: VirusBossDanger-Sheet_34
+  - first:
+      213: 6373943046144930694
+    second: VirusBossDanger-Sheet_35
+  - first:
+      213: -4775408855225572030
+    second: VirusBossDanger-Sheet_36
+  - first:
+      213: 8139666046551334600
+    second: VirusBossDanger-Sheet_37
+  - first:
+      213: 3438421452632737471
+    second: VirusBossDanger-Sheet_38
+  - first:
+      213: 1831713703033247305
+    second: VirusBossDanger-Sheet_39
+  - first:
+      213: 2477716362804225213
+    second: VirusBossDanger-Sheet_40
+  - first:
+      213: 8788425767661966386
+    second: VirusBossDanger-Sheet_41
+  - first:
+      213: 117328069215300161
+    second: VirusBossDanger-Sheet_42
+  - first:
+      213: -5182347215022528415
+    second: VirusBossDanger-Sheet_43
+  - first:
+      213: -3759923111904229050
+    second: VirusBossDanger-Sheet_44
+  - first:
+      213: -2527165509719954581
+    second: VirusBossDanger-Sheet_45
+  - first:
+      213: -9078158983930319218
+    second: VirusBossDanger-Sheet_46
+  - first:
+      213: 3713835504840348895
+    second: VirusBossDanger-Sheet_47
+  - first:
+      213: -2710785112357007402
+    second: VirusBossDanger-Sheet_48
+  - first:
+      213: -4813222364396154326
+    second: VirusBossDanger-Sheet_49
+  - first:
+      213: -5998534553984237269
+    second: VirusBossDanger-Sheet_50
+  - first:
+      213: 4793658434815940752
+    second: VirusBossDanger-Sheet_51
+  - first:
+      213: -4410272571125711415
+    second: VirusBossDanger-Sheet_52
+  - first:
+      213: -1816832674565823512
+    second: VirusBossDanger-Sheet_53
+  - first:
+      213: 1035635848433205435
+    second: VirusBossDanger-Sheet_54
+  - first:
+      213: 3782053342994375203
+    second: VirusBossDanger-Sheet_55
+  - first:
+      213: 8723366537848645051
+    second: VirusBossDanger-Sheet_56
+  - first:
+      213: 203350544544598387
+    second: VirusBossDanger-Sheet_57
+  - first:
+      213: 5061678873221746422
+    second: VirusBossDanger-Sheet_58
+  - first:
+      213: 1889046830501646721
+    second: VirusBossDanger-Sheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VirusBossDanger-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255f2d62ba5ca590800000000000000
+      internalID: -7661649143681559261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VirusBossDanger-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d8ceee588fea20800000000000000
+      internalID: 3093841410341261448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VirusBossDanger-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669ccc417df37c40800000000000000
+      internalID: 5509025432265856618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VirusBossDanger-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbe326ee27239b0800000000000000
+      internalID: -5101889059681288317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
